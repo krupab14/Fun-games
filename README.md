@@ -1,3 +1,5 @@
+#Fun Games
+
 VB.NET Game Collection
 Welcome to my VB.NET Game Collection repository! This project contains two simple yet engaging games that I developed during my diploma program. As my first-ever project, it holds a special place in my journey as a developer.
 
